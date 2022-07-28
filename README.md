@@ -1,0 +1,1 @@
+# dockerfile_pwdapi_redhat_ej6
